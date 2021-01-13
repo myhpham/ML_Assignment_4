@@ -1,1 +1,3 @@
-# ML_Assignment_4
+### Machine Learning - Assignemnt 4
+
+#### Clothes training model
